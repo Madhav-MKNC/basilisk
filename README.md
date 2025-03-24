@@ -1,2 +1,4 @@
-# basilisk
-Rogue AI sim based on the Roko's Basilisk theory
+# Basilisk AI
+
+https://en.wikipedia.org/wiki/Roko%27s_basilisk
+
